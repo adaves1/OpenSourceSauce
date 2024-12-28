@@ -33,7 +33,7 @@
 
 ## Table Of Contents
 
-- [Top](https://github.com/adaves1/OpenSourceSauce/)
+- [Title](https://github.com/adaves1/OpenSourceSauce#opensourcesauce)
 - [Table Of Contents](https://github.com/adaves1/OpenSourceSauce#table-of-contents)
 - [Overview](https://github.com/adaves1/OpenSourceSauce#overview)
 
