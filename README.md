@@ -31,28 +31,13 @@
 
 <br>
 
+## Table Of Contents
+
+- [Top](https://github.com/adaves1/OpenSourceSauce/)
+- [Table Of Contents](https://github.com/adaves1/OpenSourceSauce#table-of-contents)
+- [Overview](https://github.com/adaves1/OpenSourceSauce#overview)
+
 ## Overview
 
-Describe important information about the project, such as its overview and background.
+OpenSourceSauce is a GitHub Campaign to maximise the amount of useful things that are open-source on GitHub. Many big companies, use GitHub only to distribute the packages, deployments or installers but no source code. They do not understand that GitHub is a place where everyone can upload anything to the internet. No matter the size, no matter the amount, GitHub just stores it. Yes, in GitHub, anyone can do anything but it is just that amount of proper for big companies to upload their source code along with their packages. To ensure that this act does not happen again, we have launched this campaign.
 
-## Features
-
-Explain the features and unique points of the project.
-
-## Installation
-
-Provide instructions on how to install the project and any dependencies.
-
-## Usage
-
-Offer information on how to use the project, including sample code, to help users make the most of it.
-
----
-
-To use this template, follow these steps:
-
-1. [Fork the repository](https://github.com/S4NKALP/README-Templates/fork).
-2. Clone the forked repository to your local environment.
-3. Make the necessary changes and modifications.
-4. Commit and push your changes.
-5. Create a pull request to the original repository.
